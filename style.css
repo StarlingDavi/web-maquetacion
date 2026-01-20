@@ -53,7 +53,7 @@ nav {
 
 nav a {
     text-decoration: none;
-    font-size: 13px;
+    font-size: 20px;
     letter-spacing: 1.8px;
     text-transform: uppercase;
     color: var(--text-dark);
@@ -213,7 +213,7 @@ footer nav {
 }
 
 footer nav a {
-    font-size: 12px;
+    font-size: 20px;
     letter-spacing: 1.5px;
     text-transform: uppercase;
 }
@@ -280,6 +280,6 @@ a[href="#Volver"]:hover {
         bottom: 15px;
         right: 15px;
         padding: 10px 14px;
-        font-size: 10.5px;
+   
     }
 }
